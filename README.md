@@ -1,6 +1,7 @@
 #  RAG Document Q&A with Groq and Llama3
 
-A powerful Retrieval-Augmented Generation (RAG) application that allows you to upload, select, and intelligently query your PDF documents using Groq's Llama3 model and advanced vector search capabilities.
+A powerful and intelligent Retrieval-Augmented Generation (RAG) application that allows you to upload, select, and intelligently query your PDF documents using Groq's Llama3 model and advanced vector search capabilities.
+
 
 ##  Demo Screenshot
 
