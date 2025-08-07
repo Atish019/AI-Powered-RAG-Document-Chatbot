@@ -6,14 +6,14 @@ A powerful Retrieval-Augmented Generation (RAG) application that allows you to u
 
 Here is the interface of the application:
 
-![App Screenshot](./images\Screenshot%202025-08-07%20003750.png)
+![App Screenshot](./Screenshot%202025-08-07%20003750.png)
 
 
 ##  Project Workflow Diagram
 
 The following diagram shows how the **AI-Powered RAG Document Chatbot** works:
 
-![Project Workflow](./images\Workflow%20daigram.png)
+![Project Workflow](./Workflow%20daigram.png)
 
 
 ##  Key Features
@@ -42,14 +42,14 @@ The following diagram shows how the **AI-Powered RAG Document Chatbot** works:
 ##  Project Structure
 
 AI-Powered-RAG-Document-Chatbot
-│
+
+
 ├── app.py                   
 ├── requirements.txt          
 ├── .env                     
 ├── .gitignore              
 ├── README.md              
 ├── setup.py               
-│
 ├── research_papers/        
 
 ##  Quick Start
