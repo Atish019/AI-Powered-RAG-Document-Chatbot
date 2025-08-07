@@ -1,0 +1,29 @@
+# Core Streamlit and LangChain
+streamlit
+langchain
+langchain-community
+langchain-core
+langchain-groq
+langchain-text-splitters
+
+# Embedding and Vector Database
+sentence-transformers
+faiss-cpu
+huggingface-hub
+
+# Document Processing
+pypdf
+pymupdf
+python-docx
+
+# Environment and Utilities
+python-dotenv
+pandas
+
+# Optional dependencies
+openai
+wikipedia
+arxiv
+beautifulsoup4
+chromadb
+duckdb
