@@ -53,22 +53,6 @@ AI-Powered-RAG-Document-Chatbot
 ├── setup.py               
 ├── research_papers/        
 
-##  Quick Start
-
-### 1. Installation
-
-#### Option A: Automated Setup
-
-# Clone or download the project
-git clone <repository-url>
-
-
-# Run the automated setup
-python setup.py
-
-# Install dependencies
-pip install -r requirements.txt
-
 ### 2. Configuration
 
 #### Set Up Environment Variables
@@ -80,13 +64,6 @@ GROQ_API_KEY=your_groq_api_key_here
 # Optional: HuggingFace tokens (for advanced features)
 HUGGINGFACEHUB_API_TOKEN=your_hf_token_here
 HF_TOKEN=your_hf_token_here
-
-
-#### Get Your Groq API Key
-1. Visit [Groq Console](https://console.groq.com/)
-2. Create an account (free)
-3. Generate an API key
-4. Add it to your `.env` file
 
 ### 3. Run the Application
 
